@@ -1,0 +1,9 @@
+{
+"mode" : "correlate", 
+"labwork" : 9,
+"task" : "A",
+"exe_name" : "mycode.exe",
+"number_of_tests" : 100,
+"test_size" : 10,
+"maximal_value" : 10
+}
