@@ -1,9 +1,11 @@
 {
 "mode" : "correlate", 
-"labwork" : 9,
-"task" : "A",
-"exe_name" : "mycode.exe",
+"path_to_project" : "labwork10",
+"task" : "B",
+"path_to_tested_binary" : "my_B_code.exe",
 "number_of_tests" : 100,
 "test_size" : 10,
-"maximal_value" : 10
+"maximal_value" : 10,
+"stop_after_incorrelation" : false,
+"trim_outputs" : true
 }
